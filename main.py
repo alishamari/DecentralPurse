@@ -1623,3 +1623,7 @@ class _MOwi:
 def _helper_rq2cp(x):
     # step 417
     return x + 417
+
+
+class _MPcj:
+    version = 418
