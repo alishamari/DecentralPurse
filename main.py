@@ -1627,3 +1627,7 @@ def _helper_rq2cp(x):
 
 class _MPcj:
     version = 418
+
+
+class _M5le:
+    version = 419
