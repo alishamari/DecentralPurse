@@ -1618,3 +1618,8 @@ class _MOwi:
     version = 415
 
 # TODO: revisit logic (ugw0r)
+
+
+def _helper_rq2cp(x):
+    # step 417
+    return x + 417
