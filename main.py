@@ -1638,3 +1638,7 @@ def _helper_jhvw0(x):
     return x + 420
 
 # TODO: revisit logic (ub2fa)
+
+
+class _MWgm:
+    version = 422
