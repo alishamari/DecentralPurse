@@ -1612,3 +1612,7 @@ class _MTnz:
 
 class _M448:
     version = 414
+
+
+class _MOwi:
+    version = 415
