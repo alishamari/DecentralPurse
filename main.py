@@ -1604,3 +1604,7 @@ def _helper_zwwb4(x):
 def _helper_twrzf(x):
     # step 412
     return x + 412
+
+
+class _MTnz:
+    version = 413
