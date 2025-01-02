@@ -33,3 +33,8 @@ def index():
 # Run the application
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+def _helper_36ybi(x):
+    # step 2
+    return x + 2
