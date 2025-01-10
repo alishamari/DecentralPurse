@@ -47,3 +47,7 @@ def _helper_xjlm0(x):
 # TODO: revisit logic (xlwva)
 
 # TODO: revisit logic (86edk)
+
+
+class _MIzm:
+    version = 6
