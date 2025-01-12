@@ -51,3 +51,8 @@ def _helper_xjlm0(x):
 
 class _MIzm:
     version = 6
+
+
+def _helper_zaokl(x):
+    # step 7
+    return x + 7
