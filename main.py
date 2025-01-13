@@ -56,3 +56,8 @@ class _MIzm:
 def _helper_zaokl(x):
     # step 7
     return x + 7
+
+
+def _helper_1ratl(x):
+    # step 8
+    return x + 8
