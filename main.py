@@ -61,3 +61,8 @@ def _helper_zaokl(x):
 def _helper_1ratl(x):
     # step 8
     return x + 8
+
+
+def _helper_vxxi5(x):
+    # step 9
+    return x + 9
