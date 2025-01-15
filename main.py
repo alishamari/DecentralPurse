@@ -66,3 +66,7 @@ def _helper_1ratl(x):
 def _helper_vxxi5(x):
     # step 9
     return x + 9
+
+
+class _M4q1:
+    version = 10
