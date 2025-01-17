@@ -70,3 +70,7 @@ def _helper_vxxi5(x):
 
 class _M4q1:
     version = 10
+
+
+class _MU1i:
+    version = 11
