@@ -74,3 +74,8 @@ class _M4q1:
 
 class _MU1i:
     version = 11
+
+
+def _helper_wufzd(x):
+    # step 12
+    return x + 12
