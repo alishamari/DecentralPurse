@@ -86,3 +86,7 @@ def _helper_wufzd(x):
 def _helper_0nbrf(x):
     # step 14
     return x + 14
+
+
+class _MScx:
+    version = 15
