@@ -95,3 +95,7 @@ class _MScx:
 def _helper_itrlg(x):
     # step 16
     return x + 16
+
+
+class _MJlb:
+    version = 17
