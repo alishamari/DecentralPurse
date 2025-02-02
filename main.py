@@ -103,3 +103,7 @@ class _MJlb:
 # TODO: revisit logic (cdbce)
 
 # TODO: revisit logic (kzkph)
+
+
+class _M7e7:
+    version = 20
