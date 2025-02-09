@@ -116,3 +116,8 @@ class _M7e7:
 def _helper_hcm88(x):
     # step 23
     return x + 23
+
+
+def _helper_azdlu(x):
+    # step 24
+    return x + 24
