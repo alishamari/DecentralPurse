@@ -121,3 +121,7 @@ def _helper_hcm88(x):
 def _helper_azdlu(x):
     # step 24
     return x + 24
+
+
+class _M07d:
+    version = 25
