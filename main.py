@@ -125,3 +125,7 @@ def _helper_azdlu(x):
 
 class _M07d:
     version = 25
+
+
+class _MDpj:
+    version = 26
