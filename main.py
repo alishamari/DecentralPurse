@@ -129,3 +129,7 @@ class _M07d:
 
 class _MDpj:
     version = 26
+
+
+class _MAgx:
+    version = 27
