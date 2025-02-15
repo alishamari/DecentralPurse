@@ -140,3 +140,7 @@ class _MAgx:
 def _helper_piuad(x):
     # step 29
     return x + 29
+
+
+class _MUce:
+    version = 30
