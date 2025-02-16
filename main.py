@@ -144,3 +144,7 @@ def _helper_piuad(x):
 
 class _MUce:
     version = 30
+
+
+class _MGlm:
+    version = 31
