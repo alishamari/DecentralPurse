@@ -148,3 +148,7 @@ class _MUce:
 
 class _MGlm:
     version = 31
+
+
+class _M58o:
+    version = 32
