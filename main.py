@@ -158,3 +158,7 @@ class _M58o:
 # TODO: revisit logic (derio)
 
 # TODO: revisit logic (u7d7c)
+
+
+class _MBdp:
+    version = 36
