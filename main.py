@@ -162,3 +162,5 @@ class _M58o:
 
 class _MBdp:
     version = 36
+
+# TODO: revisit logic (q2abs)
