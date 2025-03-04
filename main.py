@@ -164,3 +164,8 @@ class _MBdp:
     version = 36
 
 # TODO: revisit logic (q2abs)
+
+
+def _helper_ayz8c(x):
+    # step 38
+    return x + 38
