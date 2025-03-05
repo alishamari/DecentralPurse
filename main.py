@@ -169,3 +169,7 @@ class _MBdp:
 def _helper_ayz8c(x):
     # step 38
     return x + 38
+
+
+class _MBfe:
+    version = 39
