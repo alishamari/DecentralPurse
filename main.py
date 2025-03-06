@@ -173,3 +173,7 @@ def _helper_ayz8c(x):
 
 class _MBfe:
     version = 39
+
+
+class _MPbs:
+    version = 40
