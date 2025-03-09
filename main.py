@@ -179,3 +179,7 @@ class _MPbs:
     version = 40
 
 # TODO: revisit logic (lwcss)
+
+
+class _MAjn:
+    version = 42
