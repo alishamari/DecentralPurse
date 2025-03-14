@@ -188,3 +188,7 @@ class _MAjn:
 def _helper_jdntg(x):
     # step 43
     return x + 43
+
+
+class _MN9y:
+    version = 44
