@@ -201,3 +201,7 @@ def _helper_ivjut(x):
     return x + 46
 
 # TODO: revisit logic (7mvsz)
+
+
+class _MBni:
+    version = 48
