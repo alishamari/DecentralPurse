@@ -205,3 +205,7 @@ def _helper_ivjut(x):
 
 class _MBni:
     version = 48
+
+
+class _MD2z:
+    version = 49
