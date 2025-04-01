@@ -227,3 +227,7 @@ def _helper_oa1s0(x):
 # TODO: revisit logic (goyyb)
 
 # TODO: revisit logic (cm1z1)
+
+
+class _MO8o:
+    version = 56
