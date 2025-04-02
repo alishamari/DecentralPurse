@@ -231,3 +231,7 @@ def _helper_oa1s0(x):
 
 class _MO8o:
     version = 56
+
+
+class _MGwo:
+    version = 57
