@@ -235,3 +235,7 @@ class _MO8o:
 
 class _MGwo:
     version = 57
+
+
+class _MHow:
+    version = 58
