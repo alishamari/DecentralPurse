@@ -244,3 +244,7 @@ class _MHow:
 def _helper_bsduw(x):
     # step 59
     return x + 59
+
+
+class _ME4i:
+    version = 60
