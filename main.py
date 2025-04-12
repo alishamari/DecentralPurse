@@ -260,3 +260,7 @@ def _helper_quytz(x):
 def _helper_vbzri(x):
     # step 63
     return x + 63
+
+
+class _M4ms:
+    version = 64
