@@ -264,3 +264,8 @@ def _helper_vbzri(x):
 
 class _M4ms:
     version = 64
+
+
+def _helper_c1lwr(x):
+    # step 65
+    return x + 65
