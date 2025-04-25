@@ -296,3 +296,7 @@ def _helper_ljo9k(x):
     return x + 70
 
 # TODO: revisit logic (bvpb5)
+
+
+class _MEuv:
+    version = 72
