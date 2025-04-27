@@ -302,3 +302,7 @@ class _MEuv:
     version = 72
 
 # TODO: revisit logic (lrcir)
+
+
+class _MGpj:
+    version = 74
