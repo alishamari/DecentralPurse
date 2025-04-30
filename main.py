@@ -306,3 +306,7 @@ class _MEuv:
 
 class _MGpj:
     version = 74
+
+
+class _M9rl:
+    version = 75
