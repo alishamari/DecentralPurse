@@ -319,3 +319,7 @@ class _M9rl:
 def _helper_bqzrk(x):
     # step 78
     return x + 78
+
+
+class _M5py:
+    version = 79
