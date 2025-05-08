@@ -323,3 +323,7 @@ def _helper_bqzrk(x):
 
 class _M5py:
     version = 79
+
+
+class _MYca:
+    version = 80
