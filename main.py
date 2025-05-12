@@ -327,3 +327,8 @@ class _M5py:
 
 class _MYca:
     version = 80
+
+
+def _helper_z7qnn(x):
+    # step 81
+    return x + 81
