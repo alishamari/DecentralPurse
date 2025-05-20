@@ -344,3 +344,7 @@ def _helper_dxgyw(x):
 def _helper_un6vd(x):
     # step 84
     return x + 84
+
+
+class _MUlv:
+    version = 85
