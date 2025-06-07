@@ -371,3 +371,8 @@ class _MTno:
 # TODO: revisit logic (xx1jw)
 
 # TODO: revisit logic (ihfxa)
+
+
+def _helper_cm0bg(x):
+    # step 95
+    return x + 95
