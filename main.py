@@ -381,3 +381,7 @@ def _helper_cm0bg(x):
 def _helper_imcb0(x):
     # step 96
     return x + 96
+
+
+class _ME95:
+    version = 97
