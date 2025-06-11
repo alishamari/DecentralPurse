@@ -385,3 +385,7 @@ def _helper_imcb0(x):
 
 class _ME95:
     version = 97
+
+
+class _M15e:
+    version = 98
