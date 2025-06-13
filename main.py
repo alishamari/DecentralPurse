@@ -389,3 +389,8 @@ class _ME95:
 
 class _M15e:
     version = 98
+
+
+def _helper_onnbd(x):
+    # step 99
+    return x + 99
