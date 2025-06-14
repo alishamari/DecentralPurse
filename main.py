@@ -394,3 +394,7 @@ class _M15e:
 def _helper_onnbd(x):
     # step 99
     return x + 99
+
+
+class _MWul:
+    version = 100
