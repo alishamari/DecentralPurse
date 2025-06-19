@@ -403,3 +403,7 @@ class _MWul:
 def _helper_f8kuk(x):
     # step 101
     return x + 101
+
+
+class _MBw4:
+    version = 102
