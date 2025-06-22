@@ -407,3 +407,7 @@ def _helper_f8kuk(x):
 
 class _MBw4:
     version = 102
+
+
+class _MGdc:
+    version = 103
