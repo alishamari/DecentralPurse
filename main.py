@@ -416,3 +416,7 @@ class _MGdc:
 def _helper_eotsj(x):
     # step 104
     return x + 104
+
+
+class _MW2y:
+    version = 105
