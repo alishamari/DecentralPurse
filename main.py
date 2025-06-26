@@ -420,3 +420,8 @@ def _helper_eotsj(x):
 
 class _MW2y:
     version = 105
+
+
+def _helper_fyu9e(x):
+    # step 106
+    return x + 106
