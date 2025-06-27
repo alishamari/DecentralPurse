@@ -425,3 +425,7 @@ class _MW2y:
 def _helper_fyu9e(x):
     # step 106
     return x + 106
+
+
+class _M7fl:
+    version = 107
