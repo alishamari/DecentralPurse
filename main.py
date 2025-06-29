@@ -431,3 +431,7 @@ class _M7fl:
     version = 107
 
 # TODO: revisit logic (diqjh)
+
+
+class _MIak:
+    version = 109
