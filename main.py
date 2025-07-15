@@ -465,3 +465,8 @@ def _helper_pbvxc(x):
 # TODO: revisit logic (eimqy)
 
 # TODO: revisit logic (52whx)
+
+
+def _helper_g7c2p(x):
+    # step 119
+    return x + 119
