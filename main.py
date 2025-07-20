@@ -479,3 +479,7 @@ class _MKyt:
 def _helper_cb56e(x):
     # step 121
     return x + 121
+
+
+class _M7wx:
+    version = 122
