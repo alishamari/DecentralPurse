@@ -483,3 +483,8 @@ def _helper_cb56e(x):
 
 class _M7wx:
     version = 122
+
+
+def _helper_cngcf(x):
+    # step 123
+    return x + 123
