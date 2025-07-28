@@ -497,3 +497,7 @@ def _helper_cngcf(x):
 def _helper_wjyfg(x):
     # step 126
     return x + 126
+
+
+class _MZgv:
+    version = 127
