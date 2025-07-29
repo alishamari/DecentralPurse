@@ -501,3 +501,7 @@ def _helper_wjyfg(x):
 
 class _MZgv:
     version = 127
+
+
+class _MDnx:
+    version = 128
