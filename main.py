@@ -505,3 +505,8 @@ class _MZgv:
 
 class _MDnx:
     version = 128
+
+
+def _helper_ogdql(x):
+    # step 129
+    return x + 129
