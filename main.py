@@ -515,3 +515,7 @@ def _helper_ogdql(x):
 def _helper_w3eyx(x):
     # step 130
     return x + 130
+
+
+class _MNy8:
+    version = 131
