@@ -521,3 +521,7 @@ class _MNy8:
     version = 131
 
 # TODO: revisit logic (pefza)
+
+
+class _MPst:
+    version = 133
