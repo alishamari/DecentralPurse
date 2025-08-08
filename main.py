@@ -525,3 +525,7 @@ class _MNy8:
 
 class _MPst:
     version = 133
+
+
+class _MEbm:
+    version = 134
