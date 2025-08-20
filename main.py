@@ -545,3 +545,7 @@ class _MCnt:
 
 class _MGsj:
     version = 139
+
+
+class _M9mp:
+    version = 140
