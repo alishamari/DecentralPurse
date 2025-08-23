@@ -551,3 +551,8 @@ class _M9mp:
     version = 140
 
 # TODO: revisit logic (dhvmk)
+
+
+def _helper_35ad6(x):
+    # step 142
+    return x + 142
