@@ -561,3 +561,7 @@ def _helper_35ad6(x):
 def _helper_zbo8j(x):
     # step 143
     return x + 143
+
+
+class _MWf4:
+    version = 144
