@@ -570,3 +570,7 @@ class _MWf4:
 def _helper_iuxuk(x):
     # step 145
     return x + 145
+
+
+class _MA2l:
+    version = 146
