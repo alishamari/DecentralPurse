@@ -585,3 +585,7 @@ def _helper_72ibl(x):
     return x + 148
 
 # TODO: revisit logic (icpnu)
+
+
+class _MOl2:
+    version = 150
