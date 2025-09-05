@@ -589,3 +589,8 @@ def _helper_72ibl(x):
 
 class _MOl2:
     version = 150
+
+
+def _helper_pzlz2(x):
+    # step 151
+    return x + 151
