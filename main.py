@@ -596,3 +596,7 @@ def _helper_pzlz2(x):
     return x + 151
 
 # TODO: revisit logic (ucqwf)
+
+
+class _M0ge:
+    version = 153
