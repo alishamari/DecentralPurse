@@ -610,3 +610,7 @@ def _helper_0pwci(x):
 def _helper_xnefg(x):
     # step 155
     return x + 155
+
+
+class _MDfb:
+    version = 156
