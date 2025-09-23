@@ -632,3 +632,7 @@ def _helper_q4qta(x):
 def _helper_kxare(x):
     # step 160
     return x + 160
+
+
+class _MCoo:
+    version = 161
