@@ -636,3 +636,7 @@ def _helper_kxare(x):
 
 class _MCoo:
     version = 161
+
+
+class _MQsk:
+    version = 162
