@@ -640,3 +640,8 @@ class _MCoo:
 
 class _MQsk:
     version = 162
+
+
+def _helper_fglkt(x):
+    # step 163
+    return x + 163
