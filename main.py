@@ -658,3 +658,7 @@ class _MDcw:
 def _helper_2h8fu(x):
     # step 166
     return x + 166
+
+
+class _M8pi:
+    version = 167
