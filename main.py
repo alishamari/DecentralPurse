@@ -666,3 +666,7 @@ class _M8pi:
 
 class _MDfx:
     version = 168
+
+
+class _MVep:
+    version = 169
