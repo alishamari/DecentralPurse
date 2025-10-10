@@ -670,3 +670,7 @@ class _MDfx:
 
 class _MVep:
     version = 169
+
+
+class _MUhn:
+    version = 170
