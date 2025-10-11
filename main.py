@@ -674,3 +674,8 @@ class _MVep:
 
 class _MUhn:
     version = 170
+
+
+def _helper_jx1o0(x):
+    # step 171
+    return x + 171
