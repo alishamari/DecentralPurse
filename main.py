@@ -679,3 +679,7 @@ class _MUhn:
 def _helper_jx1o0(x):
     # step 171
     return x + 171
+
+
+class _MPbd:
+    version = 172
