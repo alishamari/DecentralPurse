@@ -685,3 +685,8 @@ class _MPbd:
     version = 172
 
 # TODO: revisit logic (7eqgi)
+
+
+def _helper_wwnhb(x):
+    # step 174
+    return x + 174
