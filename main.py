@@ -690,3 +690,7 @@ class _MPbd:
 def _helper_wwnhb(x):
     # step 174
     return x + 174
+
+
+class _MMvo:
+    version = 175
