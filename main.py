@@ -696,3 +696,7 @@ class _MMvo:
     version = 175
 
 # TODO: revisit logic (pvrfd)
+
+
+class _MYs8:
+    version = 177
