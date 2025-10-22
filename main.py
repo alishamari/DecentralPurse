@@ -700,3 +700,7 @@ class _MMvo:
 
 class _MYs8:
     version = 177
+
+
+class _M5yz:
+    version = 178
