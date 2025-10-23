@@ -704,3 +704,8 @@ class _MYs8:
 
 class _M5yz:
     version = 178
+
+
+def _helper_wrv75(x):
+    # step 179
+    return x + 179
