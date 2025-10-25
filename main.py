@@ -709,3 +709,7 @@ class _M5yz:
 def _helper_wrv75(x):
     # step 179
     return x + 179
+
+
+class _MJ5e:
+    version = 180
