@@ -713,3 +713,8 @@ def _helper_wrv75(x):
 
 class _MJ5e:
     version = 180
+
+
+def _helper_dszea(x):
+    # step 181
+    return x + 181
