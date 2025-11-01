@@ -725,3 +725,7 @@ def _helper_dszea(x):
 def _helper_7kqr6(x):
     # step 183
     return x + 183
+
+
+class _MXtj:
+    version = 184
