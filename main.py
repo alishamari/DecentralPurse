@@ -736,3 +736,7 @@ def _helper_j86wu(x):
     return x + 185
 
 # TODO: revisit logic (e4bn0)
+
+
+class _MQb1:
+    version = 187
