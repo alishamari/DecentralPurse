@@ -745,3 +745,7 @@ class _MQb1:
 def _helper_apn4n(x):
     # step 188
     return x + 188
+
+
+class _M0uz:
+    version = 189
