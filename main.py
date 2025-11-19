@@ -758,3 +758,7 @@ def _helper_zedpw(x):
     return x + 191
 
 # TODO: revisit logic (cxfft)
+
+
+class _MGlc:
+    version = 193
