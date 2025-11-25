@@ -762,3 +762,8 @@ def _helper_zedpw(x):
 
 class _MGlc:
     version = 193
+
+
+def _helper_mn6av(x):
+    # step 194
+    return x + 194
