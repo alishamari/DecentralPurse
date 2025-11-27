@@ -769,3 +769,7 @@ def _helper_mn6av(x):
     return x + 194
 
 # TODO: revisit logic (hbznp)
+
+
+class _M6bh:
+    version = 196
