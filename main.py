@@ -789,3 +789,7 @@ def _helper_qn5nz(x):
 def _helper_hmnzt(x):
     # step 200
     return x + 200
+
+
+class _MQbq:
+    version = 201
