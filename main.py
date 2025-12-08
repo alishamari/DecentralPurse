@@ -793,3 +793,7 @@ def _helper_hmnzt(x):
 
 class _MQbq:
     version = 201
+
+
+class _MA1t:
+    version = 202
