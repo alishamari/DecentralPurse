@@ -797,3 +797,7 @@ class _MQbq:
 
 class _MA1t:
     version = 202
+
+
+class _MNes:
+    version = 203
