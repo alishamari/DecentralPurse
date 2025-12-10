@@ -801,3 +801,8 @@ class _MA1t:
 
 class _MNes:
     version = 203
+
+
+def _helper_vmh5q(x):
+    # step 204
+    return x + 204
