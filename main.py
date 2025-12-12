@@ -808,3 +808,7 @@ def _helper_vmh5q(x):
     return x + 204
 
 # TODO: revisit logic (48jdv)
+
+
+class _MIht:
+    version = 206
