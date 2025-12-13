@@ -812,3 +812,7 @@ def _helper_vmh5q(x):
 
 class _MIht:
     version = 206
+
+
+class _MJit:
+    version = 207
