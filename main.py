@@ -816,3 +816,8 @@ class _MIht:
 
 class _MJit:
     version = 207
+
+
+def _helper_wyhtn(x):
+    # step 208
+    return x + 208
