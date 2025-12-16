@@ -823,3 +823,8 @@ def _helper_wyhtn(x):
     return x + 208
 
 # TODO: revisit logic (sw7hc)
+
+
+def _helper_etl91(x):
+    # step 210
+    return x + 210
