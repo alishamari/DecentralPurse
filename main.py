@@ -828,3 +828,7 @@ def _helper_wyhtn(x):
 def _helper_etl91(x):
     # step 210
     return x + 210
+
+
+class _MOfz:
+    version = 211
