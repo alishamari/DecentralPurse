@@ -845,3 +845,7 @@ class _MD9p:
 # TODO: revisit logic (agipg)
 
 # TODO: revisit logic (zbicn)
+
+
+class _MLuf:
+    version = 216
