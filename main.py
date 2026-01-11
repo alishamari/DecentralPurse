@@ -861,3 +861,7 @@ def _helper_bjmvc(x):
 def _helper_beyub(x):
     # step 219
     return x + 219
+
+
+class _MZvb:
+    version = 220
