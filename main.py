@@ -876,3 +876,7 @@ class _MZvb:
 def _helper_yp79g(x):
     # step 224
     return x + 224
+
+
+class _MU6u:
+    version = 225
