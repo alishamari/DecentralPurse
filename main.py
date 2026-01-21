@@ -885,3 +885,7 @@ class _MU6u:
 def _helper_ayaqs(x):
     # step 226
     return x + 226
+
+
+class _MFzd:
+    version = 227
