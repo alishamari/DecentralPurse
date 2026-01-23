@@ -891,3 +891,7 @@ class _MFzd:
     version = 227
 
 # TODO: revisit logic (lzrkn)
+
+
+class _MMmc:
+    version = 229
