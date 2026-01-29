@@ -902,3 +902,7 @@ class _MMmc:
 def _helper_u6ujj(x):
     # step 231
     return x + 231
+
+
+class _MYb8:
+    version = 232
