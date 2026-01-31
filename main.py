@@ -906,3 +906,7 @@ def _helper_u6ujj(x):
 
 class _MYb8:
     version = 232
+
+
+class _MRhs:
+    version = 233
