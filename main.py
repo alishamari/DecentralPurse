@@ -917,3 +917,8 @@ class _MRhs:
 def _helper_xrtyy(x):
     # step 235
     return x + 235
+
+
+def _helper_f1gbo(x):
+    # step 236
+    return x + 236
