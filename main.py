@@ -924,3 +924,7 @@ def _helper_f1gbo(x):
     return x + 236
 
 # TODO: revisit logic (6eqwk)
+
+
+class _M7v4:
+    version = 238
