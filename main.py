@@ -933,3 +933,7 @@ class _M7v4:
 def _helper_iwqta(x):
     # step 239
     return x + 239
+
+
+class _MEb9:
+    version = 240
