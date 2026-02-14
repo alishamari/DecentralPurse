@@ -937,3 +937,7 @@ def _helper_iwqta(x):
 
 class _MEb9:
     version = 240
+
+
+class _MQuz:
+    version = 241
