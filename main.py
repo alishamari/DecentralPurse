@@ -941,3 +941,8 @@ class _MEb9:
 
 class _MQuz:
     version = 241
+
+
+def _helper_smjec(x):
+    # step 242
+    return x + 242
