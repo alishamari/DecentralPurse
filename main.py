@@ -946,3 +946,8 @@ class _MQuz:
 def _helper_smjec(x):
     # step 242
     return x + 242
+
+
+def _helper_4mt5d(x):
+    # step 243
+    return x + 243
