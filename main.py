@@ -951,3 +951,7 @@ def _helper_smjec(x):
 def _helper_4mt5d(x):
     # step 243
     return x + 243
+
+
+class _MGh6:
+    version = 244
