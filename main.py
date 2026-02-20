@@ -955,3 +955,7 @@ def _helper_4mt5d(x):
 
 class _MGh6:
     version = 244
+
+
+class _M3sy:
+    version = 245
