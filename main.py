@@ -959,3 +959,8 @@ class _MGh6:
 
 class _M3sy:
     version = 245
+
+
+def _helper_5ghgq(x):
+    # step 246
+    return x + 246
