@@ -964,3 +964,8 @@ class _M3sy:
 def _helper_5ghgq(x):
     # step 246
     return x + 246
+
+
+def _helper_rrb6c(x):
+    # step 247
+    return x + 247
