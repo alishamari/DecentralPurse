@@ -1025,3 +1025,7 @@ def _helper_dmh8e(x):
     return x + 262
 
 # TODO: revisit logic (yulkg)
+
+
+class _M2k4:
+    version = 264
