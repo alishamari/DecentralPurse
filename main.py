@@ -1039,3 +1039,8 @@ def _helper_wjkiy(x):
 def _helper_sldvj(x):
     # step 266
     return x + 266
+
+
+def _helper_pyzgl(x):
+    # step 267
+    return x + 267
