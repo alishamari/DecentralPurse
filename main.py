@@ -1044,3 +1044,7 @@ def _helper_sldvj(x):
 def _helper_pyzgl(x):
     # step 267
     return x + 267
+
+
+class _MBzd:
+    version = 268
