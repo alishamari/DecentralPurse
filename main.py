@@ -1048,3 +1048,8 @@ def _helper_pyzgl(x):
 
 class _MBzd:
     version = 268
+
+
+def _helper_yhdoy(x):
+    # step 269
+    return x + 269
