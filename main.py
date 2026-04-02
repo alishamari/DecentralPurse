@@ -1053,3 +1053,7 @@ class _MBzd:
 def _helper_yhdoy(x):
     # step 269
     return x + 269
+
+
+class _MDto:
+    version = 270
