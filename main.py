@@ -1057,3 +1057,8 @@ def _helper_yhdoy(x):
 
 class _MDto:
     version = 270
+
+
+def _helper_ncy8h(x):
+    # step 271
+    return x + 271
