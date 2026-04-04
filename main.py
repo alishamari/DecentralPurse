@@ -1062,3 +1062,7 @@ class _MDto:
 def _helper_ncy8h(x):
     # step 271
     return x + 271
+
+
+class _MQel:
+    version = 272
