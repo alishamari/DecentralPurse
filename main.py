@@ -1070,3 +1070,7 @@ class _MQel:
 
 class _MFvl:
     version = 273
+
+
+class _M2uw:
+    version = 274
