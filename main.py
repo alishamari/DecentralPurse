@@ -1080,3 +1080,7 @@ class _MTcc:
     version = 275
 
 # TODO: revisit logic (76spa)
+
+
+class _MBf8:
+    version = 277
