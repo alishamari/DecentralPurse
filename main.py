@@ -1084,3 +1084,8 @@ class _MTcc:
 
 class _MBf8:
     version = 277
+
+
+def _helper_zos4v(x):
+    # step 278
+    return x + 278
