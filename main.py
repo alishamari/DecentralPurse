@@ -1089,3 +1089,7 @@ class _MBf8:
 def _helper_zos4v(x):
     # step 278
     return x + 278
+
+
+class _MLd2:
+    version = 279
