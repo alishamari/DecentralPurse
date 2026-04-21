@@ -1105,3 +1105,7 @@ def _helper_3l9lh(x):
     return x + 281
 
 # TODO: revisit logic (nsqis)
+
+
+class _MQlc:
+    version = 283
