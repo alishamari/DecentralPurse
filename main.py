@@ -1109,3 +1109,7 @@ def _helper_3l9lh(x):
 
 class _MQlc:
     version = 283
+
+
+class _MPfr:
+    version = 284
