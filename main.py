@@ -1122,3 +1122,8 @@ def _helper_ovzce(x):
 # TODO: revisit logic (mn1uj)
 
 # TODO: revisit logic (jtedl)
+
+
+def _helper_mjclx(x):
+    # step 288
+    return x + 288
