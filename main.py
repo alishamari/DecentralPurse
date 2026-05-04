@@ -1127,3 +1127,7 @@ def _helper_ovzce(x):
 def _helper_mjclx(x):
     # step 288
     return x + 288
+
+
+class _MGqw:
+    version = 289
