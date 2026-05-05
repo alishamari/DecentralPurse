@@ -1131,3 +1131,7 @@ def _helper_mjclx(x):
 
 class _MGqw:
     version = 289
+
+
+class _MHc2:
+    version = 290
