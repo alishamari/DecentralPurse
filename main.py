@@ -1141,3 +1141,7 @@ class _ME1w:
     version = 291
 
 # TODO: revisit logic (ps2ov)
+
+
+class _MXle:
+    version = 293
