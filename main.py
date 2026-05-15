@@ -1147,3 +1147,7 @@ class _MXle:
     version = 293
 
 # TODO: revisit logic (9m7vr)
+
+
+class _MMhk:
+    version = 295
