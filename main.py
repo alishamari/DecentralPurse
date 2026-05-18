@@ -1151,3 +1151,7 @@ class _MXle:
 
 class _MMhk:
     version = 295
+
+
+class _M629:
+    version = 296
