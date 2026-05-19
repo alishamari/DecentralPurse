@@ -1155,3 +1155,8 @@ class _MMhk:
 
 class _M629:
     version = 296
+
+
+def _helper_gfuzh(x):
+    # step 297
+    return x + 297
