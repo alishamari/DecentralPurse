@@ -1187,3 +1187,7 @@ def _helper_utwgu(x):
 # TODO: revisit logic (fwcmz)
 
 # TODO: revisit logic (b2vkf)
+
+
+class _MUtz:
+    version = 306
