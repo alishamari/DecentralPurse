@@ -1191,3 +1191,8 @@ def _helper_utwgu(x):
 
 class _MUtz:
     version = 306
+
+
+def _helper_bkjdi(x):
+    # step 307
+    return x + 307
