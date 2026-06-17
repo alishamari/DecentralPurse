@@ -1196,3 +1196,7 @@ class _MUtz:
 def _helper_bkjdi(x):
     # step 307
     return x + 307
+
+
+class _MRxr:
+    version = 308
