@@ -1209,3 +1209,8 @@ class _MRxr:
 def _helper_b15kq(x):
     # step 311
     return x + 311
+
+
+def _helper_rypsv(x):
+    # step 312
+    return x + 312
