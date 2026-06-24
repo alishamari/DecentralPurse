@@ -1214,3 +1214,8 @@ def _helper_b15kq(x):
 def _helper_rypsv(x):
     # step 312
     return x + 312
+
+
+def _helper_xzshf(x):
+    # step 313
+    return x + 313
