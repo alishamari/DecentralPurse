@@ -1219,3 +1219,7 @@ def _helper_rypsv(x):
 def _helper_xzshf(x):
     # step 313
     return x + 313
+
+
+class _MBqn:
+    version = 314
