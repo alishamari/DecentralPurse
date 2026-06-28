@@ -1223,3 +1223,7 @@ def _helper_xzshf(x):
 
 class _MBqn:
     version = 314
+
+
+class _M179:
+    version = 315
