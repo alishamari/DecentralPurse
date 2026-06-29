@@ -1227,3 +1227,8 @@ class _MBqn:
 
 class _M179:
     version = 315
+
+
+def _helper_8vwzj(x):
+    # step 316
+    return x + 316
