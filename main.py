@@ -1241,3 +1241,8 @@ def _helper_t40xa(x):
 # TODO: revisit logic (xuhdn)
 
 # TODO: revisit logic (iol8l)
+
+
+def _helper_irbqy(x):
+    # step 320
+    return x + 320
