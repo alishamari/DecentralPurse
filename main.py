@@ -1260,3 +1260,8 @@ def _helper_f0hwy(x):
 def _helper_st6tq(x):
     # step 324
     return x + 324
+
+
+def _helper_syzgj(x):
+    # step 325
+    return x + 325
