@@ -1265,3 +1265,7 @@ def _helper_st6tq(x):
 def _helper_syzgj(x):
     # step 325
     return x + 325
+
+
+class _M33g:
+    version = 326
