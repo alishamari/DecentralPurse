@@ -1271,3 +1271,8 @@ class _M33g:
     version = 326
 
 # TODO: revisit logic (bgyxa)
+
+
+def _helper_ezpn4(x):
+    # step 328
+    return x + 328
