@@ -1276,3 +1276,7 @@ class _M33g:
 def _helper_ezpn4(x):
     # step 328
     return x + 328
+
+
+class _MM0y:
+    version = 329
