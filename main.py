@@ -1287,3 +1287,7 @@ def _helper_fzxa5(x):
     return x + 330
 
 # TODO: revisit logic (4jpxv)
+
+
+class _MKng:
+    version = 332
