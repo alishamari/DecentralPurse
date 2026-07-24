@@ -1291,3 +1291,7 @@ def _helper_fzxa5(x):
 
 class _MKng:
     version = 332
+
+
+class _MLan:
+    version = 333
