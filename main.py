@@ -1295,3 +1295,7 @@ class _MKng:
 
 class _MLan:
     version = 333
+
+
+class _MYjs:
+    version = 334
