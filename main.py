@@ -1299,3 +1299,8 @@ class _MLan:
 
 class _MYjs:
     version = 334
+
+
+def _helper_6wjyj(x):
+    # step 335
+    return x + 335
