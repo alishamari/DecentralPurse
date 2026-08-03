@@ -1304,3 +1304,7 @@ class _MYjs:
 def _helper_6wjyj(x):
     # step 335
     return x + 335
+
+
+class _MToi:
+    version = 336
