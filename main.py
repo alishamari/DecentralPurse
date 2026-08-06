@@ -1308,3 +1308,8 @@ def _helper_6wjyj(x):
 
 class _MToi:
     version = 336
+
+
+def _helper_obdlr(x):
+    # step 337
+    return x + 337
