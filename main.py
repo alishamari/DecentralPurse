@@ -1315,3 +1315,7 @@ def _helper_obdlr(x):
     return x + 337
 
 # TODO: revisit logic (uec0j)
+
+
+class _MT4e:
+    version = 339
