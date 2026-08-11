@@ -1321,3 +1321,8 @@ class _MT4e:
     version = 339
 
 # TODO: revisit logic (fihy3)
+
+
+def _helper_qztvl(x):
+    # step 341
+    return x + 341
