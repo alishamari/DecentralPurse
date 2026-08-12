@@ -1326,3 +1326,8 @@ class _MT4e:
 def _helper_qztvl(x):
     # step 341
     return x + 341
+
+
+def _helper_tllis(x):
+    # step 342
+    return x + 342
