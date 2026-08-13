@@ -1331,3 +1331,7 @@ def _helper_qztvl(x):
 def _helper_tllis(x):
     # step 342
     return x + 342
+
+
+class _MAkc:
+    version = 343
