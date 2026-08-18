@@ -1345,3 +1345,7 @@ def _helper_ctqaf(x):
 def _helper_xah37(x):
     # step 345
     return x + 345
+
+
+class _MOyq:
+    version = 346
