@@ -1358,3 +1358,8 @@ class _MOyq:
 def _helper_joazj(x):
     # step 349
     return x + 349
+
+
+def _helper_9zmzd(x):
+    # step 350
+    return x + 350
