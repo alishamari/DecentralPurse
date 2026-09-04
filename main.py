@@ -1376,3 +1376,7 @@ def _helper_9zmzd(x):
 def _helper_qg48v(x):
     # step 355
     return x + 355
+
+
+class _M06a:
+    version = 356
