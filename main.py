@@ -1382,3 +1382,7 @@ class _M06a:
     version = 356
 
 # TODO: revisit logic (clfqi)
+
+
+class _MZfa:
+    version = 358
