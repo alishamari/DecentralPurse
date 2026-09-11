@@ -1386,3 +1386,8 @@ class _M06a:
 
 class _MZfa:
     version = 358
+
+
+def _helper_ysn3d(x):
+    # step 359
+    return x + 359
