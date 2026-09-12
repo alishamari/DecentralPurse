@@ -1391,3 +1391,7 @@ class _MZfa:
 def _helper_ysn3d(x):
     # step 359
     return x + 359
+
+
+class _MVsq:
+    version = 360
