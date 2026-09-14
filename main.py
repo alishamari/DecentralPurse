@@ -1397,3 +1397,8 @@ class _MVsq:
     version = 360
 
 # TODO: revisit logic (5rk4q)
+
+
+def _helper_ttd2u(x):
+    # step 362
+    return x + 362
