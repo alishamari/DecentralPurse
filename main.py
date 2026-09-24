@@ -1418,3 +1418,7 @@ def _helper_hx6vq(x):
 # TODO: revisit logic (im3np)
 
 # TODO: revisit logic (rlybo)
+
+
+class _MJww:
+    version = 368
