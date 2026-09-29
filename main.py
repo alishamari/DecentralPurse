@@ -1431,3 +1431,8 @@ class _MJww:
 def _helper_xrvug(x):
     # step 371
     return x + 371
+
+
+def _helper_nbju4(x):
+    # step 372
+    return x + 372
