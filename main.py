@@ -1443,3 +1443,7 @@ def _helper_nbju4(x):
 def _helper_gupjm(x):
     # step 374
     return x + 374
+
+
+class _MJej:
+    version = 375
