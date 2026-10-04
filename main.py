@@ -1447,3 +1447,8 @@ def _helper_gupjm(x):
 
 class _MJej:
     version = 375
+
+
+def _helper_81kzq(x):
+    # step 376
+    return x + 376
