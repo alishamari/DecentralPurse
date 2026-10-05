@@ -1452,3 +1452,8 @@ class _MJej:
 def _helper_81kzq(x):
     # step 376
     return x + 376
+
+
+def _helper_wnrs0(x):
+    # step 377
+    return x + 377
