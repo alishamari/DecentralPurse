@@ -1457,3 +1457,7 @@ def _helper_81kzq(x):
 def _helper_wnrs0(x):
     # step 377
     return x + 377
+
+
+class _MVuy:
+    version = 378
