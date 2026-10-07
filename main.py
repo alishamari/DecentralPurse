@@ -1461,3 +1461,8 @@ def _helper_wnrs0(x):
 
 class _MVuy:
     version = 378
+
+
+def _helper_intuj(x):
+    # step 379
+    return x + 379
