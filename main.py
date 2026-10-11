@@ -1471,3 +1471,7 @@ def _helper_intuj(x):
 def _helper_8d7ik(x):
     # step 380
     return x + 380
+
+
+class _MWfg:
+    version = 381
