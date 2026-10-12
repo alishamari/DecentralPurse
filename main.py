@@ -1475,3 +1475,7 @@ def _helper_8d7ik(x):
 
 class _MWfg:
     version = 381
+
+
+class _MO9t:
+    version = 382
