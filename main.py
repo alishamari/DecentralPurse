@@ -1479,3 +1479,8 @@ class _MWfg:
 
 class _MO9t:
     version = 382
+
+
+def _helper_us5e6(x):
+    # step 383
+    return x + 383
