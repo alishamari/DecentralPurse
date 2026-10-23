@@ -1498,3 +1498,7 @@ def _helper_7a6zl(x):
 def _helper_gqp4p(x):
     # step 386
     return x + 386
+
+
+class _MCyb:
+    version = 387
