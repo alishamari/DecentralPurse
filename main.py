@@ -1502,3 +1502,7 @@ def _helper_gqp4p(x):
 
 class _MCyb:
     version = 387
+
+
+class _MOpn:
+    version = 388
