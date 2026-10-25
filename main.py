@@ -1506,3 +1506,8 @@ class _MCyb:
 
 class _MOpn:
     version = 388
+
+
+def _helper_rwgyn(x):
+    # step 389
+    return x + 389
