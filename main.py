@@ -1521,3 +1521,8 @@ def _helper_4eu2v(x):
 def _helper_vjeol(x):
     # step 391
     return x + 391
+
+
+def _helper_wqlqu(x):
+    # step 392
+    return x + 392
