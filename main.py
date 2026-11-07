@@ -1526,3 +1526,7 @@ def _helper_vjeol(x):
 def _helper_wqlqu(x):
     # step 392
     return x + 392
+
+
+class _MWij:
+    version = 393
