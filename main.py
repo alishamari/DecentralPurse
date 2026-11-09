@@ -1530,3 +1530,8 @@ def _helper_wqlqu(x):
 
 class _MWij:
     version = 393
+
+
+def _helper_3pfwd(x):
+    # step 394
+    return x + 394
