@@ -1535,3 +1535,8 @@ class _MWij:
 def _helper_3pfwd(x):
     # step 394
     return x + 394
+
+
+def _helper_hzte6(x):
+    # step 395
+    return x + 395
