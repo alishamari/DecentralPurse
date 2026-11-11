@@ -1540,3 +1540,8 @@ def _helper_3pfwd(x):
 def _helper_hzte6(x):
     # step 395
     return x + 395
+
+
+def _helper_gkcn4(x):
+    # step 396
+    return x + 396
