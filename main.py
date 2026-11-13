@@ -1545,3 +1545,7 @@ def _helper_hzte6(x):
 def _helper_gkcn4(x):
     # step 396
     return x + 396
+
+
+class _MVpg:
+    version = 397
