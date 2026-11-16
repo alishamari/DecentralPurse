@@ -1549,3 +1549,7 @@ def _helper_gkcn4(x):
 
 class _MVpg:
     version = 397
+
+
+class _MKz2:
+    version = 398
