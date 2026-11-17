@@ -1553,3 +1553,7 @@ class _MVpg:
 
 class _MKz2:
     version = 398
+
+
+class _MWzx:
+    version = 399
