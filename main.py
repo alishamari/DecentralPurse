@@ -1563,3 +1563,8 @@ class _MWzx:
 # TODO: revisit logic (ditcg)
 
 # TODO: revisit logic (ucrtm)
+
+
+def _helper_ojwqb(x):
+    # step 403
+    return x + 403
