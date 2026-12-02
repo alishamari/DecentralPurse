@@ -1580,3 +1580,8 @@ def _helper_ppfuc(x):
     return x + 405
 
 # TODO: revisit logic (pl6gc)
+
+
+def _helper_xftlh(x):
+    # step 407
+    return x + 407
